@@ -1,7 +1,7 @@
 # gh-abcs-actions
 > The GitHub ABCs actions training with workflow templates, examples, hands-on labs and additional learning resources.
 
-## Examples & Hands-on Labs
+## Examples & Hands-on Labs.
 
 ### Hands-on Labs Setup
 - [ ] [Lab Setup](/labs/setup.md)
